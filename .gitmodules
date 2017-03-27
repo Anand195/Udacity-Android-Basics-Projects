@@ -25,3 +25,6 @@
 [submodule "TourGuide"]
 	path = TourGuide
 	url = https://github.com/aakaashjois/TourGuide.git
+[submodule "MusicStructure"]
+	path = MusicStructure
+	url = https://github.com/aakaashjois/MusicStructure.git
