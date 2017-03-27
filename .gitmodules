@@ -1,0 +1,27 @@
+[submodule "YourFirstApp"]
+	path = YourFirstApp
+	url = https://github.com/aakaashjois/YourFirstApp.git
+[submodule "ScoreKeeper"]
+	path = ScoreKeeper
+	url = https://github.com/aakaashjois/ScoreKeeper.git
+[submodule "QuizApp"]
+	path = QuizApp
+	url = https://github.com/aakaashjois/QuizApp.git
+[submodule "ReportCard"]
+	path = ReportCard
+	url = https://github.com/aakaashjois/ReportCard.git
+[submodule "BookListing"]
+	path = BookListing
+	url = https://github.com/aakaashjois/BookListing.git
+[submodule "HabitTracker"]
+	path = HabitTracker
+	url = https://github.com/aakaashjois/HabitTracker.git
+[submodule "InventoryApp"]
+	path = InventoryApp
+	url = https://github.com/aakaashjois/InventoryApp.git
+[submodule "NewsApp"]
+	path = NewsApp
+	url = https://github.com/aakaashjois/NewsApp.git
+[submodule "TourGuide"]
+	path = TourGuide
+	url = https://github.com/aakaashjois/TourGuide.git
