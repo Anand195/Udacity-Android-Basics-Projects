@@ -1,4 +1,7 @@
 # Android Basics Projects
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Android](https://img.shields.io/badge/made%20for-android-green.svg)](https://www.android.com/)
+
 The repository contains all the projects made during the Udacity's Android Basics Nanodegree Course.
 
 ## Getting Started
