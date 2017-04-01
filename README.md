@@ -2,7 +2,7 @@
 The repository contains all the projects made during the Udacity's Android Basics Nanodegree Course.
 
 ## Getting Started
-Each project is added a a submodule. Feel free to fork the project.
+Each project is added as a submodule. Feel free to fork the project and modify it.
 
 ## License
 This project is licensed under Apache License. See the [LICENSE](LICENSE.md) for details.
