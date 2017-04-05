@@ -1,4 +1,4 @@
-# Android Basics Projects
+# Udacity Android Basics Nanodegree Projects
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Android](https://img.shields.io/badge/made%20for-android-green.svg)](https://www.android.com/)
 
